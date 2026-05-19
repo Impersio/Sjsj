@@ -1,0 +1,6 @@
+{
+  "name": "Efficient Chat AI",
+  "description": "A high-performance chat interface powered by an efficient AI model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
